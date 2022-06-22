@@ -1,0 +1,19 @@
+.container{
+  color: blue;
+  height: 300px;
+  width: 400px;
+  background: skyblue;
+  border: 4px solid midnightblue;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.box{
+  text-align: center;
+  background: pink;
+  width: 80px;
+  height: 80px;
+  border: 6px solid darkred;
+  font-weight: bold;
+  
+}
